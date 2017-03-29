@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<camion>
+<immatriculation>AX-789-AF</immatriculation>
+<codechauffeur>C095</codechauffeur>
+ <date>17/07/2016</date>
+     <levee>
+        <poubelle>pb1</poubelle>
+        <poids>12.5</poids>
+     </levee>
+      <levee>
+        <poubelle>pb2</poubelle>
+        <poids>2</poids>
+     </levee>
+</camion>
