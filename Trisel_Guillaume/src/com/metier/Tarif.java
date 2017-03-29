@@ -1,6 +1,8 @@
 package com.metier;
 import javax.persistence.*;
 
+// test
+
 @Entity
 @Table(name="tarif")
 public class Tarif {
